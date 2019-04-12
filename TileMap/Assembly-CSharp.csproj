@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\controller.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/cdt307/Documents/GitHub/ejercicio/TileMap/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
